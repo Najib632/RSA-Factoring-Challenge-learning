@@ -1,4 +1,4 @@
-# RSA-Factoring-Challenge
+# RSA-Factoring-Challenge-Learning
 
 RSA Factoring Challenge
 
